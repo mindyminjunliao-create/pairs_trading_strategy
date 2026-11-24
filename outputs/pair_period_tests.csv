@@ -1,0 +1,4 @@
+period,observations,p_value
+Formation,1008,9.560497633159369e-08
+Validation,501,0.6534534838740025
+Test,252,0.12285297834759512

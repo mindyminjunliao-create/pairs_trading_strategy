@@ -1,0 +1,2 @@
+bh_cutoff,lookback,max_days,entry_z,exit_z,stop_loss,pairs,trades,total_return,max_drawdown,sharpe
+0.01,1008,60,1.5,0.5,0.03,1,8,0.2725481387984454,-0.040438839128942305,1.5923301133416325

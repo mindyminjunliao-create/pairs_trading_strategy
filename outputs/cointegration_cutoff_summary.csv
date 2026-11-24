@@ -1,0 +1,4 @@
+bh_cutoff,selected_pairs,distinct_stocks
+0.01,1,2
+0.05,16,25
+0.1,55,72
