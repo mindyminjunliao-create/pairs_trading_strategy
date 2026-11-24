@@ -73,3 +73,18 @@ All remaining positions are closed at the period end.
 - notebooks/ — research walkthrough
 - outputs/ — tables and charts
 - reports/ — final written report or presentation
+
+## Exploratory topology extension
+
+The notebook includes an earlier retrospective experiment that
+ranks pairs by the difference between direct return distance and
+H₀ merge distance.
+
+The largest-gap portfolio returned −0.48% over 2022–2024,
+compared with +3.60% for its traditional benchmark.
+The experiment did not demonstrate a topology-based trading advantage.
+
+This extension uses a separate parameter and allocation specification
+from the main replication. Its saved results are in outputs/topology/.
+The notebook displays those results; the original experiment script
+has not yet been incorporated into this repository.
